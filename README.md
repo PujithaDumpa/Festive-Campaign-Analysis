@@ -58,29 +58,6 @@ The dashboard tracks the following KPIs to evaluate campaign effectiveness:
   - Combo 1 achieved the highest incremental revenue per unit, but limited scale constrained overall impact.
   - Home Appliances, fueled by BOGOF, delivered broad-based effectiveness with substantial volume and revenue uplift. 
 
-## 📊 Power BI Dashboard
-
-  ### Dashboard Pages
-   
-   ### 1️⃣ Store performance Analysis
-     ![Dashboard](Store performance page)
-   ###  2️⃣ Promotion Impact 
-      ![Dashboard](Promotion impact page)
-  The store page focuses on operational performance while the promotion page focuses on effectiveness and margin impact.
-  
-## Executive Insights – Festive Campaign Performance
-### Festival Uplift:
-  -Sales surged by +107.6% during Diwali and +113.6% during Sankranti, underscoring the campaigns’ ability to drive significant seasonal demand.
-### Promotion Effectiveness:
-  - BOGOF proved the most powerful lever for rapid volume and revenue acceleration.
-  - ₹500 cashback delivered superior per-unit profitability, strengthening margin growth.
-### Regional Execution:
-  - Madurai demonstrated consistent, city-wide execution excellence.
-  - Chennai and Bengaluru showed standout store-level performance but lacked aggregate consistency due to variability across outlets.
-### Product-Level Impact:
-  - Combo 1 achieved the highest incremental revenue per unit, but limited scale constrained overall impact.
-  - Home Appliances, fueled by BOGOF, delivered broad-based effectiveness with substantial volume and revenue uplift.
-    
 ## Strategic Takeaway:
   - Future campaigns should deploy BOGOF in high-volume categories to maximize reach, while leveraging cashback promotions in margin-sensitive categories to balance
   profitability and growth.
