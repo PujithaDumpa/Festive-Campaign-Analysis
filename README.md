@@ -40,9 +40,9 @@ The dashboard tracks the following KPIs to evaluate campaign effectiveness:
   ### Dashboard Pages
    
    ### 1️⃣ Store performance Analysis
-![Dashboard](Store performance page.png)
+![Dashboard](Store_performance_page.png)
    ###  2️⃣ Promotion Impact 
-![Dashboard](Promotion impact page.png)
+![Dashboard](Promotion_impact_page.png)
   The store page focuses on operational performance while the promotion page focuses on effectiveness and margin impact.
   
 ## Executive Insights – Festive Campaign Performance
