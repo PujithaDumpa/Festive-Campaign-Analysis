@@ -40,14 +40,14 @@ The dashboard tracks the following KPIs to evaluate campaign effectiveness:
   ### Dashboard Pages
    
    ### 1️⃣ Store performance Analysis
-     ![Dashboard](Store performance page)
+![Dashboard](Store performance page.png)
    ###  2️⃣ Promotion Impact 
-      ![Dashboard](Promotion impact page)
+![Dashboard](Promotion impact page.png)
   The store page focuses on operational performance while the promotion page focuses on effectiveness and margin impact.
   
 ## Executive Insights – Festive Campaign Performance
 ### Festival Uplift:
-  -Sales surged by +107.6% during Diwali and +113.6% during Sankranti, underscoring the campaigns’ ability to drive significant seasonal demand.
+  - Sales surged by +107.6% during Diwali and +113.6% during Sankranti, underscoring the campaigns’ ability to drive significant seasonal demand.
 ### Promotion Effectiveness:
   - BOGOF proved the most powerful lever for rapid volume and revenue acceleration.
   - ₹500 cashback delivered superior per-unit profitability, strengthening margin growth.
